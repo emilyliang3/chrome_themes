@@ -1,0 +1,82 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "flowers",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.png",
+      "theme_frame": "theme_frame.png",
+      "theme_tab_background": "theme_tab_background.png",
+      "theme_toolbar": "theme_toolbar.png"
+    },
+    "colors": {
+      "frame": [
+        211,
+        227,
+        253
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "tab_text": [
+        161,
+        47,
+        79
+      ],
+      "tab_background_text": [
+        62,
+        89,
+        22
+      ],
+      "bookmark_text": [
+        62,
+        89,
+        22
+      ],
+      "ntp_text": [
+        0,
+        0,
+        0
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "ntp_header": [
+        150,
+        150,
+        150
+      ],
+      "toolbar": [
+        237,
+        202,
+        223
+      ],
+      "toolbar_text": [
+        62,
+        89,
+        22
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.9527777777777777,
+        0.69,
+        0.38
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center top",
+      "ntp_background_repeat": "repeat"
+    }
+  }
+}
